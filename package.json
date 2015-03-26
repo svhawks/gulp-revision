@@ -1,0 +1,34 @@
+{
+  "name": "gulp-revision",
+  "version": "1.0.0",
+  "description": "Customizable asset revisioner for gulp.",
+  "license": "MIT",
+  "repository": "movielala/gulp-revision",
+  "author": {
+    "name": "Alican Çubukçuoğlu",
+    "email": "alicancubukcuoglu@gmail.com",
+    "url": "https://github.com/alicanc/"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "rev",
+    "revision",
+    "hash",
+    "optimize",
+    "version",
+    "versioning",
+    "cache",
+    "expire",
+    "static",
+    "asset",
+    "assets"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "lodash": "^3.0.1",
+    "through2": "^0.6.1"
+  }
+}
