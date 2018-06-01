@@ -2,6 +2,7 @@
 
 Customizable asset revisioner for gulp.
 
+**NOTE:** This should not be confused with the very similar [gulp-rev](https://www.npmjs.com/package/gulp-rev) package. gulp-revision offers more flexibility for hashing and transforming but does not work with some of the other tooling around gulp-rev such as [gulp-rev-delete-original](https://github.com/nib-health-funds/gulp-rev-delete-original).
 
 ## Install
 
